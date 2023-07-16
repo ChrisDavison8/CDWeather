@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">CDWeather</string>
+    <string name="location_placeholder_text">Location</string>
+    <string name="conditions_placeholder_text">Conditions</string>
+    <string name="temps_placeholder_text">TEMPS</string>
+    <string name="time_placeholder_text">TIME</string>
+    <string name="linkedin_link">linkedin.com/in/chris-davison-667555226</string>
+    <string name="alert_dialog_location">Location permissions are required for the app to get a
+    location for the weather data.</string>
+    <string name="alert_dialog_ok_button">OK</string>
+    <string name="alert_dialog_dismiss_button">DISMISS</string>
+    <string name="day_name_placeholder">DAY</string>
+</resources>
