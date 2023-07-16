@@ -18,3 +18,4 @@ Supports Android 7 or later
 ![Screenshot (291)](https://github.com/ChrisDavison8/CDWeather/assets/138244568/56763a86-b2f4-4c93-8a3c-2ca3566314b1)
 ![Screenshot (300)](https://github.com/ChrisDavison8/CDWeather/assets/138244568/46908f23-024b-42de-ab0c-45f72fc59cbe)
 ![Screenshot (301)](https://github.com/ChrisDavison8/CDWeather/assets/138244568/a16a8ea2-1d59-47ac-94ea-ed2d7a9a3794)
+![Screenshot (302)](https://github.com/ChrisDavison8/CDWeather/assets/138244568/9083d416-4f24-4559-8b1d-fd578de8c2fc)
