@@ -13,14 +13,14 @@
 # Android Version Support
 Supports Android 7 or later
 # Preview
-![Screenshot (290)](https://github.com/ChrisDavison8/CDWeather/assets/138244568/937f6137-2ffd-404e-8e87-4a310fe391b1)
+![Screenshot (290)](https://github.com/ChrisDavison8/CDWeather/assets/138244568/a169d942-4f6c-4e50-870d-85ae42b3d54e)
 
-![Screenshot (289)](https://github.com/ChrisDavison8/CDWeather/assets/138244568/d796d8ca-1ab2-47e9-ae73-fa0b5786a6de)
+![Screenshot (289)](https://github.com/ChrisDavison8/CDWeather/assets/138244568/5f86a7f3-8b81-49df-9bfb-9fc2a50fc275)
 
-![Screenshot (291)](https://github.com/ChrisDavison8/CDWeather/assets/138244568/56763a86-b2f4-4c93-8a3c-2ca3566314b1)
+![Screenshot (291)](https://github.com/ChrisDavison8/CDWeather/assets/138244568/6c24262c-1776-4939-b532-d8ec7d6fd911)
 
-![Screenshot (300)](https://github.com/ChrisDavison8/CDWeather/assets/138244568/46908f23-024b-42de-ab0c-45f72fc59cbe)
+![Screenshot (300)](https://github.com/ChrisDavison8/CDWeather/assets/138244568/baeb6a5a-8918-43e9-8a13-4ff2c35f732b)
 
-![Screenshot (301)](https://github.com/ChrisDavison8/CDWeather/assets/138244568/a16a8ea2-1d59-47ac-94ea-ed2d7a9a3794)
+![Screenshot (301)](https://github.com/ChrisDavison8/CDWeather/assets/138244568/597e3854-7e45-4157-86f3-2419955b8376)
 
-![Screenshot (302)](https://github.com/ChrisDavison8/CDWeather/assets/138244568/9083d416-4f24-4559-8b1d-fd578de8c2fc)
+![Screenshot (302)](https://github.com/ChrisDavison8/CDWeather/assets/138244568/cee8038e-3e48-4488-af19-0d5b46e53f88)
